@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911748166836",
+    "project_id": "eventec-3eca4",
+    "storage_bucket": "eventec-3eca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911748166836:android:1fa3c11ce9391a257293e1",
+        "android_client_info": {
+          "package_name": "com.example.eventec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJO887KmlptrV1oTBf-h7CdX9rRKGOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911748166836:android:5f937629095f74f07293e1",
+        "android_client_info": {
+          "package_name": "com.fatec.eventec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJO887KmlptrV1oTBf-h7CdX9rRKGOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
